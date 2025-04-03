@@ -6,3 +6,4 @@ Mon Joli Projet Ajout de lignes dans README.md
  Ajout 5 README --------
  Ajout 6 du texte README --------
  Ajout 7 du texte README working dir --------
+ Ajout 8 du texte README copyright --------
